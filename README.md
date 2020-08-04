@@ -1,5 +1,5 @@
 # DATA STRUCTURES
-Data structures and algorithms are very important in programming.There are various types of data structures.We will be dealing with stack , queue,linked lists and trees.We will also be learning different algorithms.
+Data structures and algorithms are very important in programming.There are various types of data structures. We will be implementing stack , queue,linked lists and trees.We will also be learning different algorithms.
 
 **The programs are implemented using C programming language**
 
