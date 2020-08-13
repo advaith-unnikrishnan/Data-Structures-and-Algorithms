@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 //defines the maximum szie of the array as 10
 #define size 10 
 //declares the array and top as global ,intialises top as -1
