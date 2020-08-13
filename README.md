@@ -7,3 +7,6 @@ The title of the programs and their explantions are given below:
 
 #### STACK
  * stack1.c - Implementation of stack using array
+
+#### SORTING
+* bubblesort.c - Implementation of bubblesort algorithm
