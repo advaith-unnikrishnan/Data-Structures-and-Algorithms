@@ -10,7 +10,8 @@ for i in range(size):
 
 print("Orginal Array:")
 for i in range(size):
-    print(a[i])
+    print(a[i],end=" ")
+print()
 
 #implement Bubble Sort
 for i in range(size):
@@ -22,4 +23,5 @@ for i in range(size):
 
 print("Sorted Array:")
 for i in range(size):
-    print(a[i])
+    print(a[i],end=" ")
+print()
